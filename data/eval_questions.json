@@ -1,0 +1,17 @@
+[
+  {
+    "question": "How do I reset my account password?",
+    "expected_source": "authentication_faq.pdf",
+    "should_escalate": false
+  },
+  {
+    "question": "Why did my monthly subscription payment fail?",
+    "expected_source": "billing_guide.pdf",
+    "should_escalate": false
+  },
+  {
+    "question": "How to deploy the application on a quantum supercomputer?",
+    "expected_source": "none",
+    "should_escalate": true
+  }
+]
